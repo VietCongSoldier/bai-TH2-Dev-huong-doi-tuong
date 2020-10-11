@@ -1,0 +1,13 @@
+E:\Dev\bai TH2 Dev huong doi tuong\bai TH2 Dev huong doi tuong\bin\Debug\netcoreapp3.1\bai TH2 Dev huong doi tuong.exe
+E:\Dev\bai TH2 Dev huong doi tuong\bai TH2 Dev huong doi tuong\bin\Debug\netcoreapp3.1\bai TH2 Dev huong doi tuong.deps.json
+E:\Dev\bai TH2 Dev huong doi tuong\bai TH2 Dev huong doi tuong\bin\Debug\netcoreapp3.1\bai TH2 Dev huong doi tuong.runtimeconfig.json
+E:\Dev\bai TH2 Dev huong doi tuong\bai TH2 Dev huong doi tuong\bin\Debug\netcoreapp3.1\bai TH2 Dev huong doi tuong.runtimeconfig.dev.json
+E:\Dev\bai TH2 Dev huong doi tuong\bai TH2 Dev huong doi tuong\bin\Debug\netcoreapp3.1\bai TH2 Dev huong doi tuong.dll
+E:\Dev\bai TH2 Dev huong doi tuong\bai TH2 Dev huong doi tuong\bin\Debug\netcoreapp3.1\bai TH2 Dev huong doi tuong.pdb
+E:\Dev\bai TH2 Dev huong doi tuong\bai TH2 Dev huong doi tuong\obj\Debug\netcoreapp3.1\bai TH2 Dev huong doi tuong.csprojAssemblyReference.cache
+E:\Dev\bai TH2 Dev huong doi tuong\bai TH2 Dev huong doi tuong\obj\Debug\netcoreapp3.1\bai TH2 Dev huong doi tuong.AssemblyInfoInputs.cache
+E:\Dev\bai TH2 Dev huong doi tuong\bai TH2 Dev huong doi tuong\obj\Debug\netcoreapp3.1\bai TH2 Dev huong doi tuong.AssemblyInfo.cs
+E:\Dev\bai TH2 Dev huong doi tuong\bai TH2 Dev huong doi tuong\obj\Debug\netcoreapp3.1\bai TH2 Dev huong doi tuong.csproj.CoreCompileInputs.cache
+E:\Dev\bai TH2 Dev huong doi tuong\bai TH2 Dev huong doi tuong\obj\Debug\netcoreapp3.1\bai TH2 Dev huong doi tuong.dll
+E:\Dev\bai TH2 Dev huong doi tuong\bai TH2 Dev huong doi tuong\obj\Debug\netcoreapp3.1\bai TH2 Dev huong doi tuong.pdb
+E:\Dev\bai TH2 Dev huong doi tuong\bai TH2 Dev huong doi tuong\obj\Debug\netcoreapp3.1\bai TH2 Dev huong doi tuong.genruntimeconfig.cache
